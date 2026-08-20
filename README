@@ -10,6 +10,30 @@ The platform is designed around an **API Gateway + service-oriented architecture
 
 The goal is to build an AI system that is not just an LLM wrapper, but a backend platform where different AI capabilities can be exposed, orchestrated, and scaled as separate services.
 
+## 📸 Platform Screenshots
+
+### CognexusAI Platform
+![CognexusAI Platform](docs/screenshots/Artificats.png)
+
+### Chat Agent
+![Chat Agent](docs/screenshots/chat.png)
+
+### Coding Agent
+![Coding Agent](docs/screenshots/coding.png)
+
+### PDF RAG Agent
+![PDF RAG Agent](docs/screenshots/ragpdf.png)
+
+### PPT Agent
+![PPT Agent](docs/screenshots/ppt.png)
+
+### Billing
+![Billing](docs/screenshots/billing.png)
+
+## 🧠 Multi-Agent Architecture
+
+![CognexusAI Architecture](docs/architecture.png)
+
 ## Architecture
 
 ```text
